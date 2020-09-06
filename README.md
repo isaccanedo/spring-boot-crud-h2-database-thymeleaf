@@ -19,5 +19,5 @@ admin/admin (role=ADMIN)
 
 ## Screenshot
 
-![Screenshot](http://juhahinkula.github.com/img/crudboot.png)
+![Screenshot](https://github.com/isaccanedo/spring-boot-crud-h2-database-thymeleaf/blob/master/src/main/resources/static/img/students.jpg)
 
